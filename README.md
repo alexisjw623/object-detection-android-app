@@ -1,14 +1,14 @@
 # Object Classification using Machine Learning
 
-### Object Detection Android App using Teachable Machine and Tensorflow Lite
+### Object Detection Android App Tutorial using Teachable Machine and Tensorflow Lite
 
-Last updated: 07/22/2020 by Alexis Wu
+Last updated: November 19, 2021 by Alexis Wu
 
 ## Overview
 
 This tutorial provides step-by-step instructions on how to create an Android app using Google's Teachable Machine and Android Studio. By following the tutorial, you will be able to use your Android app to detect objects through supervised machine learning. 
 
-This is an example application for [TensorFlow Lite](https://tensorflow.org/lite) on Android. It uses image classification to continuously classify objects it sees from the device's back camera. Inference is performed using the TensorFlow Lite Java API. The demo app classifies frames in real-time, displaying the top most probable classifications. 
+This is an example application for [TensorFlow Lite](https://tensorflow.org/lite) on Android devices. It uses image classification to continuously classify objects it sees from the device's back camera. Inference is performed using the TensorFlow Lite Java API. The demo app classifies frames in real-time, displaying the top most probable classifications. 
 
 For details of the model used, visit [Image classification](https://www.tensorflow.org/lite/models/image_classification/overview).
 
@@ -140,3 +140,7 @@ _Do not delete the assets folder content_. If you explicitly deleted the files, 
 [Dinesh Raturi's Fruits Prediction Android App Youtube Tutorial](https://www.youtube.com/watch?v=fNbxSXi0OkA)
 
 [How-To Geek: How to Access Developer Options and Enable USB Debugging on Android](https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/)
+
+## Contact
+
+If you have any questions, suggestions, or concerns, please contact me at alexiswu@princeton.edu.
